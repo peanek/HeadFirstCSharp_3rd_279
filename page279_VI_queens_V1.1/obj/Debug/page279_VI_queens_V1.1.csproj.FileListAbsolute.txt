@@ -1,0 +1,9 @@
+C:\Users\ced6\Desktop\_DEKSTOP\_DEVELOPMENT\Visual Studio2012forDesktop\page279_VI_queens_V1.1\page279_VI_queens_V1.1\bin\Debug\page279_VI_queens_V1.1.exe.config
+C:\Users\ced6\Desktop\_DEKSTOP\_DEVELOPMENT\Visual Studio2012forDesktop\page279_VI_queens_V1.1\page279_VI_queens_V1.1\obj\Debug\page279_VI_queens_V1.1.csprojResolveAssemblyReference.cache
+C:\Users\ced6\Desktop\_DEKSTOP\_DEVELOPMENT\Visual Studio2012forDesktop\page279_VI_queens_V1.1\page279_VI_queens_V1.1\obj\Debug\page279_VI_queens_V1._1.Form1.resources
+C:\Users\ced6\Desktop\_DEKSTOP\_DEVELOPMENT\Visual Studio2012forDesktop\page279_VI_queens_V1.1\page279_VI_queens_V1.1\obj\Debug\page279_VI_queens_V1._1.Properties.Resources.resources
+C:\Users\ced6\Desktop\_DEKSTOP\_DEVELOPMENT\Visual Studio2012forDesktop\page279_VI_queens_V1.1\page279_VI_queens_V1.1\obj\Debug\page279_VI_queens_V1.1.csproj.GenerateResource.Cache
+C:\Users\ced6\Desktop\_DEKSTOP\_DEVELOPMENT\Visual Studio2012forDesktop\page279_VI_queens_V1.1\page279_VI_queens_V1.1\bin\Debug\page279_VI_queens_V1.1.exe
+C:\Users\ced6\Desktop\_DEKSTOP\_DEVELOPMENT\Visual Studio2012forDesktop\page279_VI_queens_V1.1\page279_VI_queens_V1.1\bin\Debug\page279_VI_queens_V1.1.pdb
+C:\Users\ced6\Desktop\_DEKSTOP\_DEVELOPMENT\Visual Studio2012forDesktop\page279_VI_queens_V1.1\page279_VI_queens_V1.1\obj\Debug\page279_VI_queens_V1.1.exe
+C:\Users\ced6\Desktop\_DEKSTOP\_DEVELOPMENT\Visual Studio2012forDesktop\page279_VI_queens_V1.1\page279_VI_queens_V1.1\obj\Debug\page279_VI_queens_V1.1.pdb

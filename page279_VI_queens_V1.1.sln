@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "page279_VI_queens_V1.1", "page279_VI_queens_V1.1\page279_VI_queens_V1.1.csproj", "{C1F86528-4B33-4FBE-B126-5BB95022BEBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1F86528-4B33-4FBE-B126-5BB95022BEBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1F86528-4B33-4FBE-B126-5BB95022BEBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1F86528-4B33-4FBE-B126-5BB95022BEBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1F86528-4B33-4FBE-B126-5BB95022BEBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
